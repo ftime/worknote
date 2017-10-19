@@ -6,3 +6,5 @@ test code
 조치는 출력축과 기어들이 
 
 열박음 후 조임력에 의하여 축 내경이 축소됩니다.
+
+how do i know what is not so 
