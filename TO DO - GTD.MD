@@ -5,4 +5,7 @@
 
 2. 有一个印度tata 公司的 casing的特采需要审批。内容：casing 正反面都加工了pipe。
 
+3. shc45 pinch roll 的图纸是随便输入的。sap todolist 20171027
+
+
 
